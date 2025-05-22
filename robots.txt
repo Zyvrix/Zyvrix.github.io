@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://dineshyadav.github.io/sitemap-index.xml
+Host: https://dineshyadav.github.io
