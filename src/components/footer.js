@@ -106,8 +106,13 @@ const Footer = () => {
 
       <StyledCredit tabindex="-1">
         <a href="https://github.com/Zyvrix/Zyvrix.github.io">
+<<<<<<< HEAD
           <div>Designed &amp; Built by Britanny Chiang<br></br>
           Revised by Dinesh
+=======
+          <div>Designed &amp; Built by Brittany Chiang<br></br>
+ <br></br>  Revised by Dinesh
+>>>>>>> aa24e52dcc8ab8b77ffb3e1a0b1270d5a4f5d01f
           
           </div>
 
